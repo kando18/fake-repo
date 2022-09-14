@@ -5,3 +5,7 @@ function sayHello(firstName, lastName){
 function getHobby(hobby){
     return hobby;
 }
+
+function getFavoriteFood(foodName){
+    return foodName;
+}
