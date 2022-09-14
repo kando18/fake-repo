@@ -1,1 +1,3 @@
-console.log('fr.js');
+function getRepoName(){
+    return 'fake repo';
+}
