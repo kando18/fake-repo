@@ -15,4 +15,7 @@ function favoriteDessert(dessertName){
 
 function favoriteSport(sportName){
     return sportName;
+
+function getFavoriteFood(foodName){
+    return foodName;
 }
