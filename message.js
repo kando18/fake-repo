@@ -1,3 +1,3 @@
-function sayHello(firstName){
-    return `hello ${firstName}`;
+function sayHello(firstName, lastName){
+    return `hello ${firstName} ${lastName}`;
 }
